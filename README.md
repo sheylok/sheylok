@@ -1,16 +1,23 @@
-## Hi there 👋
+QA Engineer
 
-<!--
-**sheylok/sheylok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Закончила курс Яндекс Практикума по тестированию. Сейчас в поисках работы в QA. Готова к выполнению тестовых заданий и быстрому включению в процессы команды
 
-Here are some ideas to get you started:
+Навыки и инструменты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ручное тестирование веб- и мобильных приложений
+
+Составление тест-кейсов, чек-листов, баг-репортов
+
+Техники тест-дизайна (классы эквивалентности, граничные значения)
+
+Postman, Android Studio, DevTools, Charles Proxy
+
+SQL (SELECT, JOIN)
+
+Закрепила и отработала навыки в [Дипломном проекте по тестированию учебного сервиса Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1JEBnTql-wrdsLwdv-JtvKgvaCtuIj_r6k-IuKfaZ4Jo/edit?gid=943703744#gid=943703744)
+Проект включает чек-листы, тест-кейсы и баг-репорты для веб- и мобильного приложений и API
+
+Контакты: 
+[telegram](https://t.me/Sheylok)
+email: sheylok97@gmail.com
+[hh.ru](https://spb.hh.ru/resume/12b7fb82ff04061b950039ed1f424d79493073)
